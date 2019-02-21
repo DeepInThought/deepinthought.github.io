@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/deepinthought
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.deepinthought.io
+  * I am deepinthought (https://keybase.io/deepinthought) on keybase.
+  * I have a public key ASD8fVbZZwuZR9FJwMRol7niCyAmZW7AZHidP-EhlTw2two
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012022f5f5d3f6faec56492e1bb6200f486673caca1365ad73e9015d87f1dfa88c830a",
+      "host": "keybase.io",
+      "kid": "0120fc7d56d9670b9947d149c0c46897b9e20b2026656ec064789d3fe121953c36b70a",
+      "uid": "701c47154f001c4c3772c02550689519",
+      "username": "deepinthought"
+    },
+    "merkle_root": {
+      "ctime": 1547838889,
+      "hash": "d3a94a36482fb2674c6e0c45f5c6c38f5402dab248668a0056e4c4b1e27e59432214739828cbc25432bc010621af9cad18ba0f4481c9de4714501e9505e1d9af",
+      "hash_meta": "f283f865dec34ad706e192c095cc1f744e1bbd0132c5c1c1c17823dc807933bb",
+      "seqno": 4488518
+    },
+    "service": {
+      "entropy": "b9pz7xsMDTMggOY0ridgsbxG",
+      "hostname": "www.deepinthought.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1547838908,
+  "expire_in": 504576000,
+  "prev": "bc09d7d31b00f461933b91620f4279f16da879e3c0ed0fa16df34390efccfa9f",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/H1W2WcLmUfRScDEaJe54gsgJmVuwGR4nT/hIZU8NrcKp3BheWxvYWTESpcCH8QgvAnX0xsA9GGTO5FiD0J58W2oeePA7Q+hbfNDkO/M+p/EIO0tn8oR/UVnlYSBKeeZM92LmTib/Ivh19IxXZtnwAJ9AgHCo3NpZ8RA92Roegfz7dNXz1IRiSRoXOVi2CeaNXznurs+WcpJLjcp0CM2MGeZS1yXvt90IEEs9QEd4dcr98XHe/E77+esD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN9XR6Z9xPGXVd5jeryFHK6FQldXTZJPcieMykvD3vRvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deepinthought
+
+==================================================================
