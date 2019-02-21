@@ -1,8 +1,12 @@
 ---
-title: "Welcome to Jekyll!"
-published: false
+title: "We're currently in a build phase."
+published: true
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Welcome**, this will be an amazing year ahead as we collaborate on a bigger project.  
 
-I hope you like it!
+More to come.
+
+Thanks,
+
+@deepinthought
